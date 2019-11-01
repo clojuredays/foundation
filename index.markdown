@@ -1,5 +1,6 @@
 ---
 layout: default
+
 ---
 # The ClojureDays Foundation
 
