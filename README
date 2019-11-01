@@ -1,0 +1,15 @@
+This is the source repo for the ClojureDays Foundation website.
+
+Pushes to the master branch on github will automatically update the
+website at https://foundation.clojuredays.org/
+
+Implemented using GitHub pages with Jekyll templating.
+
+You can run the templating engine locally using jekyll:
+
+
+  # install a recentish Ruby
+  $ gem install --user-install bundler jekyll
+  $ bundle exec jekyll serve
+
+Note that some changes will require a restart of the jekyll process.
