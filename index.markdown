@@ -43,7 +43,7 @@ The Netherlands<br />
 # Goals
 
 We support the computer programmer community worldwide, our main focus
-is on the community surrounding the Clojure programming language, in
+is on the community surrounding the Clojure programming language in
 the Netherlands.
 
 We aim to achieve the goal by organising and supporting conferences,
