@@ -4,12 +4,13 @@ layout: default
 ---
 # The ClojureDays Foundation
 
-The ClojureDays foundation is a non-profit foundation (ANBI)
-residing in the Netherlands that manages the Dutch Clojure Days
-conference.
+Welcome to the homepage of the ClojureDays Foundation. We are a
+non-profit foundation (ANBI) residing in the Netherlands that manages
+the Dutch Clojure Days conference.
 
-The foundation is under establishment. Additional information will be added
-when it becomes available.
+This page provides the legally required public information concerning
+the foundation. We are establishing the foundation and will add
+additional information when it becomes available.
 
 ## Legal name
 
@@ -41,20 +42,18 @@ The Netherlands<br />
 
 # Goals
 
-We support the computer programmer community worldwide, with a focus
-on the community surrounding the Clojure programming language.
+We support the computer programmer community worldwide, our main focus
+is on the community surrounding the Clojure programming language, in
+the Netherlands.
 
-We try to achieve the goal by organising and supporting conferences,
+We aim to achieve the goal by organising and supporting conferences,
 meetups, workshops, development of open source software libraries
 and other related activities.
 
 # Policy plan
 
-As of november 2019, the foundation is being established. The policy
-plan is being worked on and will be published when it's ready.
-
-
-
+As of november 2019, we are establishing the foundation. We are
+working on a policy plan to be published here.
 
 # Board members
 
@@ -69,23 +68,16 @@ reasonable expenses made doing their work for the foundation.
 
 The foundation employs no people.
 
-
-
-
 # Activity report
 
-As of november 2019, the foundation is being established. We plan
+As of november 2019, we are establishing the foundation. We plan
 to organise at least one conference in 2020.
-
-
-
 
 # Financial report
 
-As of november 2019, the foundation is being established. The
-fiscal year will run from establishment till 31 december 2020. The
-financial report will be available within 6 months after the end of
-the fiscal year.
+The first fiscal year will run from establishment till 31
+december 2020. We will provide a financial report within 6 months
+after the end of the fiscal year.
 
 
 
