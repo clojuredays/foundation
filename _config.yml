@@ -22,7 +22,7 @@ title: The ClojureDays Foundation
 email: events@clojuredays.org
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Information regarding the ClojureDays Foundation.
-baseurl: "/foundation" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  clojuredays
 
@@ -30,6 +30,10 @@ github_username:  clojuredays
 theme: jekyll-theme-cayman
 #plugins:
 #  - jekyll-feed
+
+exclude:
+  - "*~"
+  - ".*"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
