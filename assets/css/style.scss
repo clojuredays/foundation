@@ -24,7 +24,7 @@ $hr-border-color: #eff0f1 !default;
 @import "{{ site.theme }}";
 
 .page-header h1 {
-    background-image: url("/assets/logo.svg");
+    background-image: url("../logo.svg");
     background-position: center left;
     background-repeat: no-repeat;
     background-size: 1em;
