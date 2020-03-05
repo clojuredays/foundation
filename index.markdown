@@ -61,7 +61,10 @@ reasonable expenses made doing their work for the foundation.
 
 The foundation employs no people.
 
-# Policy plan outline for 2020
+# Policy plan outline
+
+This is the outline of our policy plan. More details can be found in
+[The ClojureDays Foundation Policy Plan 2020](policy-2020.html).
 
 ## Goals
 
