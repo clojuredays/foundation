@@ -47,8 +47,8 @@ In november 2019, we established the foundation.
 ## ClojureDays 2020 conference
 
 We will organize the [Dutch Clojure Days
-2020](https://clojuredays.org) annual conference to be held in may
-2020. The conference will host about 150 people and will be free of
+2020](https://clojuredays.org) annual conference to be held in may 2020.
+The conference will host about 150 people and will be free of
 charge for attendees.
 
 # Organisation info
