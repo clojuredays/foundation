@@ -100,8 +100,7 @@ expected.
 
 ## After 2020
 
-We plan to organize at another Clojure Days conference
-in 2021.
+We plan to organize another Dutch Clojure Days conference in 2021.
 
 # Activity report
 
