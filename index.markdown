@@ -9,8 +9,7 @@ non-profit foundation residing in the Netherlands that manages
 the Dutch Clojure Days conference.
 
 This page provides the legally required public information concerning
-the foundation. We are establishing the foundation and will add
-additional information when it becomes available.
+the foundation.
 
 ## Organisation info
 
@@ -115,6 +114,3 @@ organise at least one conference in 2020; [Dutch Clojure Days 2020](https://cloj
 The first fiscal year will run from november 2019 till 31
 december 2020. We will provide a financial report within 6 months
 after the end of the fiscal year.
-
-
-
