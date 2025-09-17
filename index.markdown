@@ -63,7 +63,7 @@ The foundation employs no people.
 # Policy plan outline
 
 This is the outline of our policy plan. More details can be found in
-[The ClojureDays Foundation Policy Plan 2020](policy-2020.html).
+[The ClojureDays Foundation Policy Plan 2025](policy-2025.html).
 
 ## Goals
 
@@ -79,38 +79,17 @@ and other related activities.
 
 In november 2019, we established the foundation.
 
-## ClojureDays 2020 conference
+## ClojureDays 2026 conference
 
 We will organize the [Dutch Clojure Days
-2020](https://clojuredays.org) annual conference to be held in may
+2026](https://clojuredays.org) annual conference to be held in may
 2020. The conference will host about 150 people and will be free of
 charge for attendees.
 
-## Funding
+## Funding and finances
 
 To finance the conference and other activities we're attracting
 corporate sponsors to the conference who will provide funds in
 exchange for exposure to the Clojure programming community.
 
-Based on data from previous conferences we expect costs for the 2020
-conference to be about €16,000 - €20,000 euros all in.
-
-We aim to keep a limited amount of funds for foundation operating
-costs (mostly infrastructure and administration costs) and general
-reserves for next year's conference if sponsoring brings in less than
-expected.
-
-## After 2020
-
-We plan to organize another Dutch Clojure Days conference in 2021.
-
-# Activity report
-
-The foundation was established 11th of november 2019. We will
-organise at least one conference in 2020; [Dutch Clojure Days 2020](https://clojuredays.org)
-
-# Financial report
-
-The first fiscal year will run from november 2019 till 31
-december 2020. We will provide a financial report within 6 months
-after the end of the fiscal year.
+Further details can be found in [The ClojureDays Foundation Policy Plan 2025](policy-2025.html).
