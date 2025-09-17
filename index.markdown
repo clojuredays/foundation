@@ -29,6 +29,10 @@ RSIN 860666554
 
 KVK 76542319
 
+### Establishment
+
+November 2019
+
 ## Contact info
 
 ### Website
@@ -75,15 +79,11 @@ We aim to achieve the goal by organising and supporting conferences,
 meetups, workshops, development of open source software libraries
 and other related activities.
 
-## Establishment end of 2019
-
-In november 2019, we established the foundation.
-
 ## ClojureDays 2026 conference
 
 We will organize the [Dutch Clojure Days
-2026](https://clojuredays.org) annual conference to be held in may
-2020. The conference will host about 150 people and will be free of
+2026](https://clojuredays.org) annual conference to be held in may 2026.
+The conference will host about 130 people and will be free of
 charge for attendees.
 
 ## Funding and finances
