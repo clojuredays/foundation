@@ -64,6 +64,12 @@ reasonable expenses made doing their work for the foundation.
 
 The foundation employs no people.
 
+#### New secretary
+
+After 2025 Remco van 't Veer will step down from his secretary position.
+We are now open to applications for a new board member to take over this
+position starting 2026. If you are interested [send us an email](mailto:events@clojuredays.org).
+
 # Policy plan outline
 
 This is the outline of our policy plan. More details can be found in
